@@ -1,0 +1,22 @@
+{
+  "name": "terrible-lizards-session-toolkit",
+  "displayName": "Terrible Lizards Session Toolkit",
+  "programType": "session-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Session profiles",
+    "Reference groups",
+    "Control notes"
+  ],
+  "topics": [
+    "terrible-lizards-session-toolkit",
+    "terrible-lizards-tools",
+    "terrible-lizards-menu",
+    "terrible-lizards-settings",
+    "terrible-lizards-configs",
+    "terrible-lizards-session-profiles",
+    "terrible-lizards-reference-groups"
+  ]
+}
